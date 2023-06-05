@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haitian Jiang"
+title                    : "Haitian Jiang (姜海天)"
 title_separator          : "-"
 name                     : &name "Haitian Jiang"
 description              : &description "personal description"
