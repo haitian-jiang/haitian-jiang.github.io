@@ -14,4 +14,4 @@ I am a first-year Ph.D. student of Computer Science at  [NYU Courant](https://cs
 
 # Research
 
-My research interests include system for machine learning and graph representation learning. 
+My research interests include machine learning, systems for machine learning and graph neural networks. 
