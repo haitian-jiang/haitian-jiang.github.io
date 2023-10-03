@@ -22,3 +22,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - Simplifying and Empowering Transformers for Large-Graph Representations
 
   Qitian Wu, Wentao Zhao, Chenxiao Yang, Hengrui Zhang, Fan Nie, **Haitian Jiang**, Yatao Bian, Junchi Yan 
+
+  NeurIPS 2023, \[[paper](https://arxiv.org/abs/2306.10759)\]
