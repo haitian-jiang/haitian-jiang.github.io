@@ -16,3 +16,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   Kezhao Huang*, **Haitian Jiang**\*, Minjie Wang, Guangxuan Xiao, David Wipf, Xiang Song, Quan Gan, Zengfeng Huang, Jidong Zhai, Zheng Zhang
 
   arXiv, \[[paper](https://arxiv.org/abs/2301.07482)\]
+
+# Conference Publications
+
+- Simplifying and Empowering Transformers for Large-Graph Representations
+
+  Qitian Wu, Wentao Zhao, Chenxiao Yang, Hengrui Zhang, Fan Nie, **Haitian Jiang**, Yatao Bian, Junchi Yan 
