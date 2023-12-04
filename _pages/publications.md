@@ -15,7 +15,13 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
   Kezhao Huang*, **Haitian Jiang**\*, Minjie Wang, Guangxuan Xiao, David Wipf, Xiang Song, Quan Gan, Zengfeng Huang, Jidong Zhai, Zheng Zhang
 
-  arXiv, \[[paper](https://arxiv.org/abs/2301.07482)\]
+  Under revision for VLDB 2024. arXiv, \[[paper](https://arxiv.org/abs/2301.07482)\]
+
+- MuseGNN: Interpretable and Convergent Graph Neural Network Layers at Scale
+
+  **Haitian Jiang**, Renjie Liu, Xiao Yan, Zhenkun Cai, Minjie Wang, David Wipf
+
+  Under review for ICLR 2024. arXiv, \[[paper](https://arxiv.org/abs/2310.12457)\]
 
 # Conference Publications
 
