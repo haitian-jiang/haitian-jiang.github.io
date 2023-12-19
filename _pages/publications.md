@@ -23,7 +23,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   
   Kezhao Huang*, **Haitian Jiang**\*, Minjie Wang, Guangxuan Xiao, David Wipf, Xiang Song, Quan Gan, Zengfeng Huang, Jidong Zhai, Zheng Zhang
   
-  VLDB 2024. arXiv, \[[paper](https://arxiv.org/abs/2301.07482)\]
+  VLDB 2024, \[[paper](https://arxiv.org/abs/2301.07482)\]
 
 - **Simplifying and Empowering Transformers for Large-Graph Representations**
   
