@@ -5,10 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Advanced Big Data Analytics
+- **Natural Language Processing**<br>
+  TA, New York University, spring 2025
 
-TA for undergraduate course, *School of Data Science, Fudan University*, spring, 2023 
+- **Honors Analysis of Algorithms**<br>
+  TA, New York University, fall 2024
 
-## Algorithm and Data Structure (Honor)
+- **Advanced Computer Graphics**<br>
+  TA, New York University, spring 2024
 
-TA for Undergraduate course, *School of Data Science, Fudan University*, fall, 2022 
+- **Big Data and Machine Learning Systems**<br>
+  TA, New York University, spring 2024
+
+- **Advanced Big Data Analytics**<br>
+  TA, Fudan University, spring 2023
+
+- **Algorithm and Data Structure (Honor)**<br>
+  TA, Fudan University, fall 2022 

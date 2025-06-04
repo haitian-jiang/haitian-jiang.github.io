@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haitian (Hilton) Jiang"
-  avatar           : "profile.png"
-  bio              : "First-year CS PhD student at NYU Courant"
+  name             : "Haitian Jiang"
+  avatar           : "jiang.png"
+  bio              : "CS PhD student at NYU Courant"
   location         : "New York"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

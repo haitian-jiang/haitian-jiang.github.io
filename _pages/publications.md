@@ -9,24 +9,27 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 \* denotes equal contributions.
 
-# Preprints
 
-- **MuseGNN: Interpretable and Convergent Graph Neural Network Layers at Scale**
+- **DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN Training**
+
+  Renjie Liu, Yichuan Wang, Xiao Yan, **Haitian Jiang**, Zhenkun Cai, Minjie Wang, Bo Tang, Jinyang Li
+
+  SIGMOD 2025, \[[paper](https://dl.acm.org/doi/abs/10.1145/3709738)\]
+
+- **MuseGNN: Forming Scalable, Convergent GNN Layers that Minimize a Sampling-Based Energy**
   
-  **Haitian Jiang**, Renjie Liu, Xiao Yan, Zhenkun Cai, Minjie Wang, David Wipf
+  **Haitian Jiang**, Renjie Liu, Zengfeng Huang, Yichuan Wang, Xiao Yan, Zhenkun Cai, Minjie Wang, David Wipf
   
-  Under review for ICLR 2024. arXiv, \[[paper](https://arxiv.org/abs/2310.12457)\]
+  ICLR 2025, \[[paper](https://iclr.cc/virtual/2025/poster/30256)\]
 
-# Conference Publications
-
-- **ReFresh: Reducing Memory Access from Exploiting Stable Historical Embeddings for Graph Neural Network Training**
+- **FreshGNN: Reducing Memory Access via Stable Historical Embeddings for Graph Neural Network Training**
   
   Kezhao Huang*, **Haitian Jiang**\*, Minjie Wang, Guangxuan Xiao, David Wipf, Xiang Song, Quan Gan, Zengfeng Huang, Jidong Zhai, Zheng Zhang
   
-  VLDB 2024, \[[paper](https://arxiv.org/abs/2301.07482)\]
+  VLDB 2024, \[[paper](https://www.vldb.org/pvldb/vol17/p1473-huang.pdf)\]
 
-- **Simplifying and Empowering Transformers for Large-Graph Representations**
+- **SGFormer: Simplifying and Empowering Transformers for Large-Graph Representations**
   
   Qitian Wu, Wentao Zhao, Chenxiao Yang, Hengrui Zhang, Fan Nie, **Haitian Jiang**, Yatao Bian, Junchi Yan
   
-  NeurIPS 2023, \[[paper](https://arxiv.org/abs/2306.10759)\]
+  NeurIPS 2023, \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cc57fac10eacadb3b72a907ac48f9a98-Abstract-Conference.html)\]
