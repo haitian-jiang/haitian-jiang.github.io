@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student of Computer Science at  [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Jinyang Li](https://jinyangli.github.io/). I graduated from the School of Data Science at Fudan University in 2023, advised by Prof. [Zengfeng Huang](https://zengfenghuang.github.io). I worked with [Yida Wang](https://yidawang.org/) and [David Wipf](http://www.davidwipf.com/) when I was interning in Amazon Web Services. 
+I am a 2nd-year Ph.D. student of Computer Science at  [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Jinyang Li](https://jinyangli.github.io/). I graduated from the School of Data Science at Fudan University in 2023, advised by Prof. [Zengfeng Huang](https://zengfenghuang.github.io). I worked with [Yida Wang](https://yidawang.org/) and [David Wipf](http://www.davidwipf.com/) when I was interning in Amazon Web Services. 
 
 *Email: haitian.jiang [at] nyu [dot] edu*
 
