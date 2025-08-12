@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 - **TTrace: Lightweight Error Checking and Diagnosis for Distributed Training**
 
-  Haitian Jiang, Shaowei Zhu, Zhen Zhang, Zhenyu Song, Xinwei Fu, Zhen Jia, Yida Wang, Jinyang Li
+  **Haitian Jiang**, Shaowei Zhu, Zhen Zhang, Zhenyu Song, Xinwei Fu, Zhen Jia, Yida Wang, Jinyang Li
 
   preprint, \[[paper](https://www.arxiv.org/abs/2506.09280)\]
 
